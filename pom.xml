@@ -24,7 +24,7 @@
 
         <!-- Define the version of Allure you want to use via the allure.version property -->
 <properties>
-<allure.version>2.25.0</allure.version>
+<allure.version>3.19.2</allure.version>
 </properties>
 
         <!-- Add allure-bom to dependency management to ensure correct versions of all the dependencies are used -->
